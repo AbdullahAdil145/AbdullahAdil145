@@ -1,5 +1,20 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800"/>
+</p>
+
+<h1 align="center">Hi there! 👋 I'm Muhammad Abdullah Adil</h1>
+<h3 align="center">Full Stack Developer | Web Dev Enthusiast</h3>
+
+<p align="center">
+  <a href="mailto:abdullahadil143@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/abdullahadil145/">LinkedIn</a> •
+  <a href="https://github.com/AbdullahAdil145">GitHub</a> •
+  <a href="https://abdullahadil145.github.io/">Portfolio</a> •
+  <a href="https://abdullahadil145.medium.com/">Blog</a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800"/>
 </p>
 <p align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" width="400" />
@@ -13,9 +28,9 @@ My technical stack includes JavaScript, Java, Python, C++, and PHP, alongside to
 
 Currently seeking opportunities to contribute to dynamic development teams, where I can build, learn, and deliver value through technology.
 
-You can connect with me via [LinkedIn](https://www.linkedin.com/in/abdullahadil145) or [Email](mailto:abdullahadil143@gmail.com). Also, feel free to check out my [Blog](https://abdullahadil145.medium.com/)
+You can connect with me via [LinkedIn](https://www.linkedin.com/in/abdullahadil145) or [Email](mailto:abdullahadil143@gmail.com). Also, feel free to check out my [Blog](https://abdullahadil145.medium.com/), or head over to my [Portfolio](https://abdullahadil145.github.io/).
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -34,5 +49,14 @@ You can connect with me via [LinkedIn](https://www.linkedin.com/in/abdullahadil1
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/>
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAdil145&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAdil145&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800"/>
 </p>
