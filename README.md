@@ -17,7 +17,10 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800"/>
 </p>
 <p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" width="400" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQE93VfaoY1vIQ/profile-displaybackgroundimage-shrink_350_1400/B56ZdENToXGQAc-/0/1749196029181?e=1754524800&v=beta&t=it4_2ERDnhvXjwIOLFs6fddFaboYrz-GEhHNMVz1IkM" width="700" />
+</p>
+<p align="center">
+  <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" width="300" />
 </p>
 
 I am a versatile and motivated Full Stack Developer with a strong academic foundation in Computer Science and practical experience developing scalable, web-based applications. My work spans front-end design with modern frameworks like React to back-end development using Node.js and database management with MySQL and MongoDB.
@@ -31,6 +34,7 @@ Currently seeking opportunities to contribute to dynamic development teams, wher
 You can connect with me via [LinkedIn](https://www.linkedin.com/in/abdullahadil145) or [Email](mailto:abdullahadil143@gmail.com). Also, feel free to check out my [Blog](https://abdullahadil145.medium.com/), or head over to my [Portfolio](https://abdullahadil145.github.io/).
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
+<h1 align="center">Tech Stack</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
