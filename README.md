@@ -8,9 +8,9 @@
 <p align="center">
   <a href="mailto:abdullahadil143@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/abdullahadil145/">LinkedIn</a> •
-  <a href="https://github.com/AbdullahAdil145">GitHub</a> •
   <a href="https://abdullahadil145.github.io/">Portfolio</a> •
-  <a href="https://abdullahadil145.medium.com/">Blog</a>
+  <a href="https://abdullahadil145.medium.com/">Blog</a> •
+  <a href="https://tr.ee/bhVX6y">Linktree</a>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ My technical stack includes JavaScript, Java, Python, C++, and PHP, alongside to
 
 Currently seeking opportunities to contribute to dynamic development teams, where I can build, learn, and deliver value through technology.
 
-You can connect with me via [LinkedIn](https://www.linkedin.com/in/abdullahadil145) or [Email](mailto:abdullahadil143@gmail.com). Also, feel free to check out my [Blog](https://abdullahadil145.medium.com/), or head over to my [Portfolio](https://abdullahadil145.github.io/).
+You can connect with me via [Linktree](https://tr.ee/bhVX6y) or [Email](mailto:abdullahadil143@gmail.com). Also, feel free to check out my [Blog](https://abdullahadil145.medium.com/), or head over to my [Portfolio](https://abdullahadil145.github.io/).
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
 <h1 align="center">Tech Stack</h1>
