@@ -17,7 +17,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800"/>
 </p>
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQE93VfaoY1vIQ/profile-displaybackgroundimage-shrink_350_1400/B56ZdENToXGQAc-/0/1749196029181?e=1754524800&v=beta&t=it4_2ERDnhvXjwIOLFs6fddFaboYrz-GEhHNMVz1IkM" width="700" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHI-V6s3i9DOA/profile-displaybackgroundimage-shrink_350_1400/B56Zd_1HNHHoAY-/0/1750196320279?e=1755734400&v=beta&t=QwFDnzhq4MQvWAQBHH4BpHDHPbHEAke5FFSsgSQcdrk" width="700" />
 </p>
 <p align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" width="300" />
