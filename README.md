@@ -92,5 +92,12 @@ You can connect with me via [Email](mailto:abdullahadil143@gmail.com), also feel
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAdil145&theme=tokyonight" />
 </p>
 <p align="center">
+  <img
+src="https://leetcard.jacoblin.cool/abdullahadil145"
+      alt="LeetCode Stats"
+      className="stats-image"
+    />
+</p>
+<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800"/>
 </p>
