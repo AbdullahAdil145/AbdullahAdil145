@@ -32,7 +32,7 @@ My technical stack includes JavaScript, Java, Python, C++, and many more, alongs
 
 Currently seeking opportunities to contribute to dynamic development teams, where I can build, learn, and deliver value through technology.
 
-You can connect with me via [Email](mailto:abdullahadil143@gmail.com), also feel free to checkout my other profiles provided.
+You can connect with me via [Email](mailto:abdullahadil143@gmail.com). Also, feel free to check out my other [Profiles](https://linktr.ee/abdullahadil145).
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
 <h1 align="center">Tech Stack</h1>
