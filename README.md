@@ -82,6 +82,7 @@ You can connect with me via [Email](mailto:abdullahadil143@gmail.com). Also, fee
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </p>
+<h1 align="center">... and more.</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800"/>
 </p>
