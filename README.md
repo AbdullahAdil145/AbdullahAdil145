@@ -24,15 +24,16 @@
   <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" width="300" />
 </p>
 
-I am a versatile and motivated Full Stack Developer with a strong academic foundation in Computer Science and practical experience developing scalable, web-based applications. My work spans front-end design with modern frameworks like React to back-end development using Node.js and database management with MySQL and MongoDB.
+I’m an adaptable and motivated Full Stack Developer with a knack for building things that make life simpler, and sometimes faster. Whether it’s a Chrome extension that auto applies to jobs or a hotel management system running behind the scenes, I have been crafting solutions that quietly do the heavy lifting. My work spans front-end design with modern frameworks, to back-end development, database management with SQL, and version control using Git.
 
-I've contributed to impactful projects, including Chrome extensions that streamline job applications and a full-stack hotel management system with authentication and role-based access. I thrive in collaborative environments, bringing a balance of technical skill, creative problem-solving, and attention to user experience.
+By degree, I’m a Computer Science graduate, with two published papers, university awards, and leadership roles in student societies. By nature, I’m curious and hands on, I thrive when turning ideas into smooth, working products. I've contributed to impactful projects, including extensions, web scrapers, web dashboards, and more. Collaborative environments are where I prosper, bringing a balance of technical skill, creative problem solving, and a strong focus on user experience.
+My technical experience includes Java, Python, C++, JavaScript, SQL, Node.js, React, Express.js, FastAPI, Git, MongoDB, MariaDB, Postman, and more.
 
-My technical stack includes JavaScript, Java, Python, C++, and many more, alongside tools like Git, Postman, Jira, and others. I'm passionate about continuous learning and applying a user-centered approach to real-world development challenges.
+Beyond code, you’ll often find me on a tennis court, in the pool, or on a target shooting range. I’m also someone who enjoys exploring new places, whether that’s hidden spots around the city or peaceful lakeside escapes. I also occasionally blog when inspiration hits, usually about tech or life as a developer. These interests keep me grounded, competitive, and constantly learning, both inside and outside the world of code.
 
-Currently seeking opportunities to contribute to dynamic development teams, where I can build, learn, and deliver value through technology.
+I’m currently seeking opportunities to contribute to dynamic development teams where I can build, learn, and help turn complex challenges into solutions, by delivering value through technology.
 
-You can connect with me via [Email](mailto:abdullahadil143@gmail.com). Also, feel free to check out my other [Profiles](https://linktr.ee/abdullahadil145).
+You can connect with me via [Email](mailto:abdullahadil143@gmail.com). Also, feel free to check out my [Portfolio](https://github.com/AbdullahAdil145) or other [Profiles](https://linktr.ee/abdullahadil145).
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
 <h1 align="center">Tech Stack</h1>
