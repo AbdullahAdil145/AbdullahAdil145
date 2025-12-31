@@ -2,8 +2,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800"/>
 </p>
 
-<h1 align="center">Hi there! 👋 I'm Muhammad Abdullah Adil</h1>
-<h3 align="center">Full Stack Developer  |  Web Developer</h3>
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQH1TXlgymBqMg/profile-displaybackgroundimage-shrink_350_1400/B4EZtyTe3GIoAY-/0/1767149270007?e=1769040000&v=beta&t=O19ExTtekm9VfsgAGIFcIAvctcFrty2695dwo7NmUVc" width="700" />
+</p>
 
 <p align="center">
   <a href="mailto:abdullahadil143@gmail.com">Email</a> •
@@ -17,9 +18,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800"/>
 </p>
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQH1TXlgymBqMg/profile-displaybackgroundimage-shrink_350_1400/B4EZtyTe3GIoAY-/0/1767149270007?e=1769040000&v=beta&t=O19ExTtekm9VfsgAGIFcIAvctcFrty2695dwo7NmUVc" width="700" />
-</p>
+
 <p align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" width="300" />
 </p>
