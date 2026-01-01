@@ -15,21 +15,51 @@
   <a href="https://abdullahadil145.medium.com/">Blog</a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800"/>
-</p>
+<table>
+  <tr>
+    <!-- Left column: image + bio -->
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" width="250" />
+      </p>
 
-<p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" width="300" />
-</p>
+<p>
+        I am a Full Stack Software Developer experienced in building end-to-end solutions and delivering exceptional user experiences. Proficient in Java and Node.js, with expertise in RESTful APIs and modern frontend frameworks like Angular and React.
+      </p>
+      
+  <p>
+        By degree, I’m a Computer Science graduate. By nature, I’m curious and hands on. I enjoy turning ideas into smooth, working products.
+      </p>
 
-I am Full Stack Software Developer experienced in building end-to-end solutions and delivering exceptional user experiences. Proficient in server-side programming languages such as Java and Node.js, with expertise in RESTful API development and modern frontend frameworks like Angular and React. Well-versed in version control systems, agile methodologies, and DevOps practices.
+  <p>
+        Beyond code, you’ll find me on a tennis court, in the pool, or working out with a podcast on.
+      </p>
+    </td>
 
-By degree, I’m a Computer Science graduate, by nature, I’m curious and hands on, I thrive when turning ideas into smooth, working products. I've contributed to impactful projects, including backend servers, pipelines, extensions, scrapers, dashboards, and more.
+    <!-- Right column: tech stack -->
+  <td width="50%" valign="top">
+      <h3 align="center">Tech Stack</h3>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+      </p>
 
-Beyond code, you’ll can find me on a tennis court, in the pool, or working out with a podcast on. I also enjoy exploring new places, and occasionally blog when inspiration hits, usually about tech or life as a developer.
+  <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-You can connect with me via [Email](mailto:abdullahadil143@gmail.com). Also, feel free to check out my [Portfolio](https://github.com/AbdullahAdil145) or other [Profiles](https://linktr.ee/abdullahadil145).
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
 <h1 align="center">Tech Stack</h1>
