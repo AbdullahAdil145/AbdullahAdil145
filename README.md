@@ -76,10 +76,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36"/>
       </p>
 
-   <p align="center"><b>CI/CD:</b> GitHub Actions</p>
-      <p align="center"><b>Practices:</b> Agile Scrum, MVC Architecture</p>
-      <p align="center"><b>Other:</b> Chrome Extensions, Async Processing</p>
-    </td>
+  
+  </td>
   </tr>
 </table>
 
