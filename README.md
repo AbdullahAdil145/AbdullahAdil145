@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQH1TXlgymBqMg/profile-displaybackgroundimage-shrink_350_1400/B4EZtyTe3GIoAY-/0/1767149270007?e=1769040000&v=beta&t=O19ExTtekm9VfsgAGIFcIAvctcFrty2695dwo7NmUVc" width="700" />
-</p>
-
-<p align="center">
   <a href="mailto:abdullahadil143@gmail.com">Email</a> •
   <a href="https://abdullahadil145.github.io/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/abdullahadil145/">LinkedIn</a> •
