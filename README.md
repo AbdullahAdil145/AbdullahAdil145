@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&text=Hey%20Everyone%21&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&text=Hey%20Everyone%21&animation=fadeIn&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
