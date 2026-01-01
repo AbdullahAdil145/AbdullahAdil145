@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+<p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQH1TXlgymBqMg/profile-displaybackgroundimage-shrink_350_1400/B4EZtyTe3GIoAY-/0/1767149270007?e=1769040000&v=beta&t=O19ExTtekm9VfsgAGIFcIAvctcFrty2695dwo7NmUVc" width="700" />
 </p>
 
