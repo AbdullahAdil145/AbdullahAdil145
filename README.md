@@ -17,7 +17,6 @@
 
 <table>
   <tr>
-    <!-- Left column: image + bio -->
     <td width="50%" valign="top">
       <p align="center">
         <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" width="250" />
@@ -36,7 +35,7 @@
       </p>
     </td>
 
-    <!-- Right column: tech stack -->
+
   <td width="50%" valign="top">
       <h3 align="center">Tech Stack</h3>
       <p align="center">
