@@ -17,42 +17,68 @@
 
 <table>
   <tr>
+    <!-- Left column -->
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" width="250" />
+        <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" width="300" />
       </p>
 
-<p>
-        I am a Full Stack Software Developer experienced in building end-to-end solutions and delivering exceptional user experiences. Proficient in Java and Node.js, with expertise in RESTful APIs and modern frontend frameworks like Angular and React.
-      </p>
-      
-  <p>
-        By degree, I’m a Computer Science graduate. By nature, I’m curious and hands on. I enjoy turning ideas into smooth, working products.
-      </p>
+  <div align="center">
+        <p>
+          I am a Full Stack Software Developer experienced in building end-to-end solutions and delivering exceptional user experiences.
+          Proficient in Java and Node.js, with expertise in RESTful APIs and modern frontend frameworks like Angular and React.
+        </p>
 
-  <p>
-        Beyond code, you’ll find me on a tennis court, in the pool, or working out with a podcast on.
-      </p>
+   <p>
+          By degree, I’m a Computer Science graduate. By nature, I’m curious and hands on.
+          I enjoy turning ideas into smooth, working products.
+        </p>
+
+   <p>
+          Beyond code, you’ll find me on a tennis court, in the pool, or working out with a podcast on.
+        </p>
+      </div>
     </td>
 
-
+    <!-- Right column -->
   <td width="50%" valign="top">
       <h3 align="center">Tech Stack</h3>
+
+   <h4 align="center">Programming Languages</h4>
       <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/>
       </p>
 
-  <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+   <h4 align="center">Frameworks and Libraries</h4>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="36"/>
       </p>
+
+   <h4 align="center">Backend and Databases</h4>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36"/>
+      </p>
+
+   <h4 align="center">Tools and Practices</h4>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36"/>
+      </p>
+
+   <p align="center"><b>CI/CD:</b> GitHub Actions</p>
+      <p align="center"><b>Practices:</b> Agile Scrum, MVC Architecture</p>
+      <p align="center"><b>Other:</b> Chrome Extensions, Async Processing</p>
     </td>
   </tr>
 </table>
