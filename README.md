@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" alt="divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&text=Hey%20Everyone%21&animation=fadeIn&fontColor=FFFFFF"
-    alt="header"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&text=Hey%20Everyone%21&animation=fadeIn&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
@@ -22,11 +19,7 @@
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <img
-          src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif"
-          width="300"
-          alt="coding"
-        />
+        <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" width="300" />
       </p>
 
    <div align="center">
@@ -49,7 +42,7 @@
    <td width="50%" valign="top">
       <h3 align="center">Tech Stack</h3>
 
-   <table width="100%" cellspacing="0" cellpadding="10" style="border-collapse: collapse;">
+   <table align="center" width="92%" cellspacing="0" cellpadding="10" style="border-collapse: collapse;">
         <tr>
           <td style="border: 1px solid #30363d; border-radius: 10px;">
             <p align="center"><b>Programming Languages</b></p>
@@ -66,7 +59,7 @@
           </td>
         </tr>
 
-   <tr><td style="height: 10px;"></td></tr>
+   <tr><td height="10"></td></tr>
 
    <tr>
           <td style="border: 1px solid #30363d; border-radius: 10px;">
@@ -84,7 +77,7 @@
           </td>
         </tr>
 
-   <tr><td style="height: 10px;"></td></tr>
+   <tr><td height="10"></td></tr>
 
    <tr>
           <td style="border: 1px solid #30363d; border-radius: 10px;">
@@ -101,7 +94,7 @@
           </td>
         </tr>
 
-   <tr><td style="height: 10px;"></td></tr>
+   <tr><td height="10"></td></tr>
 
    <tr>
           <td style="border: 1px solid #30363d; border-radius: 10px;">
@@ -126,30 +119,21 @@
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" alt="divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AbdullahAdil145&show_icons=true&theme=tokyonight&cache_seconds=1800"
-    alt="github stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAdil145&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAdil145&theme=tokyonight"
-    alt="github streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAdil145&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/abdullahadil145"
-    alt="LeetCode Stats"
-  />
+  <img src="https://leetcard.jacoblin.cool/abdullahadil145" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" alt="divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" />
 </p>
