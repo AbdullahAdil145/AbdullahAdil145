@@ -48,7 +48,7 @@
   <table width="100%" cellspacing="0" cellpadding="10" style="border-collapse: collapse;">
     
   <tr>
-      <td style="border: 1px solid #30363d; border-radius: 10px;">
+      <td>
         <p align="center"><b>Programming Languages</b></p>
         <p align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="34" />
@@ -70,10 +70,8 @@
       </td>
     </tr>
 
-  <tr><td style="height: 10px; border: none;"></td></tr>
-
    <tr>
-      <td style="border: 1px solid #30363d; border-radius: 10px;">
+      <td>
         <p align="center"><b>Frameworks and Libraries</b></p>
         <p align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" />
@@ -95,10 +93,9 @@
       </td>
     </tr>
 
-   <tr><td style="height: 10px; border: none;"></td></tr>
-
+  
    <tr>
-      <td style="border: 1px solid #30363d; border-radius: 10px;">
+      <td>
         <p align="center"><b>Backend and Databases</b></p>
         <p align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34" />
@@ -119,10 +116,9 @@
       </td>
     </tr>
 
-   <tr><td style="height: 10px; border: none;"></td></tr>
 
    <tr>
-      <td style="border: 1px solid #30363d; border-radius: 10px;">
+      <td>
         <p align="center"><b>Tools and Practices</b></p>
         <p align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" />
