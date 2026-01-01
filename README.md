@@ -44,10 +44,10 @@
 
   <h3 align="center">Tech Stack</h3>
 
-  <!-- Card container table -->
+
   <table width="100%" cellspacing="0" cellpadding="10" style="border-collapse: collapse;">
-    <!-- Programming Languages -->
-    <tr>
+    
+  <tr>
       <td style="border: 1px solid #30363d; border-radius: 10px;">
         <p align="center"><b>Programming Languages</b></p>
         <p align="center">
@@ -70,10 +70,8 @@
       </td>
     </tr>
 
- <!-- Spacer -->
   <tr><td style="height: 10px; border: none;"></td></tr>
 
-    <!-- Frameworks & Libraries -->
    <tr>
       <td style="border: 1px solid #30363d; border-radius: 10px;">
         <p align="center"><b>Frameworks and Libraries</b></p>
@@ -97,10 +95,8 @@
       </td>
     </tr>
 
-    <!-- Spacer -->
    <tr><td style="height: 10px; border: none;"></td></tr>
 
-    <!-- Backend & Databases -->
    <tr>
       <td style="border: 1px solid #30363d; border-radius: 10px;">
         <p align="center"><b>Backend and Databases</b></p>
@@ -123,10 +119,8 @@
       </td>
     </tr>
 
-    <!-- Spacer -->
    <tr><td style="height: 10px; border: none;"></td></tr>
 
-    <!-- Tools & Practices -->
    <tr>
       <td style="border: 1px solid #30363d; border-radius: 10px;">
         <p align="center"><b>Tools and Practices</b></p>
